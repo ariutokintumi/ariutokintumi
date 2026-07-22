@@ -1,7 +1,7 @@
-# EVVM.org Virtual Blockchains Info
+# EVVM Virtual Blockchains Info
+- [Docs & Workshops are here -> EVVM.info](https://EVVM.info)
 - [Website & Talks are here -> EVVM.org](https://EVVM.org)
 - [Repo is here -> Github.com/EVVM-org](https://Github.com/EVVM-org)
-- [Docs & Workshops are here -> EVVM.info](https://EVVM.info)
 - [Dev Tooling is here -> EVVM.dev](https://EVVM.dev)
 
 ## Hello Future!
